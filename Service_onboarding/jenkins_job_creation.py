@@ -5,9 +5,7 @@ import jenkins
 #jenkins_url = 'https://zeroops.upgrad.com/jenkins-zeroops'
 jenkins_url = 'http://13.218.103.89/jenkins-zeroops'
 username = 'chaitanya.golhar@upgrad.com'
-#password_or_api_token = '1125c5ba5c78855ce24ab80375bd0bd369'
-password_or_api_token = '11901fa81aa0e7e0f9a447db78d8c2a24d'
-#password_or_api_token = '11cefe0f4cda7debcb9deb4a44b90c9f85' #new upgrad one
+password_or_api_token = '11901fa8c2a24d'
 #connecting to server
 server = jenkins.Jenkins(jenkins_url, username=username, password=password_or_api_token)
 job_name = 'upgrad-testing-api'

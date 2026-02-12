@@ -58,7 +58,7 @@ jenkins_url = 'https://zeroops.upgrad.com/jenkins-zeroops'
 job_name =  'self-service-portal'
 build_number = '288'
 username = 'chaitanya.golhar@upgrad.com'
-api_token = '1125c5ba5c78855ce24ab80375bd0bd369'
+api_token = '1125375bd0bd369'
 
 if is_build_failed(jenkins_url, job_name, build_number, username, api_token):
     print("Job and build id present with failure status")

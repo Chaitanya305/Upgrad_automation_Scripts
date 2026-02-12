@@ -1,28 +1,8 @@
 #!/bin/bash
-# psql_host="upgrad-dev-postgres-payment.cscyttgt1cwf.us-east-1.rds.amazonaws.com"
-# psql_user="postgres"
-# psql_password='3MDRGVogLpcq'
-
-
-# psql_host="upgrad-staging-postgres-lead-management.cscyttgt1cwf.us-east-1.rds.amazonaws.com"
-# psql_user="postgres"
-# psql_password='9-hm=),_d9ZEHLO?3Qk$LzjTUzF#f,A5'
-
-# psql_host="ug-nonprod-postgres-dev.cdxjkd3y4d2x.ap-south-1.rds.amazonaws.com"
-# psql_user="postgres"
-# psql_password='mq9P9mdWrsHs'
-
-# psql_host="upgrad-staging-postgres-payment.cscyttgt1cwf.us-east-1.rds.amazonaws.com"
-# psql_user="postgres"
-# psql_password='B4VqW<=fl}tGi)j#ypK]R*W|-,)_]0n#'
-
-# psql_host="upgrad-staging-postgres.cscyttgt1cwf.us-east-1.rds.amazonaws.com"
-# psql_user="psqladmin"
-# psql_password='Qm7t<m%jx3OEnKrj|sLch>YF;5=+;W5!'
 
 psql_host="upgrad-staging-postgres-platform.cscyttgt1cwf.us-east-1.rds.amazonaws.com"
-psql_user="psqladmin"
-psql_password='RfVvLPeoIoVa'
+psql_user="user"
+psql_password='pass'
 
 echo "Restoring for DB Host: $psql_host"
 export PGPASSWORD="$psql_password"

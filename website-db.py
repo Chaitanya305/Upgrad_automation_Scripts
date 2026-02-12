@@ -66,13 +66,13 @@ def create_or_update_mongo_user(public_key, private_key, project_id, username, p
         print("Response:", response.text)
 
 
-MONGO_PUBLIC_KEY = "mecbmydp"
-MONGO_PRIVATE_KEY = "9097b2bd-d5c3-4feb-98f9-92512d82d082"
+MONGO_PUBLIC_KEY = "mongo pubic key"
+MONGO_PRIVATE_KEY = "mong key"
 #user creatiom
 #get dev user_created
 db_user_name = 'chaitanyagolhar'
 dev_password = generate_password()
-dev_project_id = "5f5b37fdfd935a65163e2f68"
+dev_project_id = "5f5b37fdf"
 public_key = MONGO_PUBLIC_KEY
 private_key = MONGO_PRIVATE_KEY
 dev_role_name = "readWriteAnyDatabase"
