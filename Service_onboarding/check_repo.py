@@ -2,7 +2,7 @@ import requests
 import json
 import urllib.parse
 bitbucket_username = "test123-workspace-admin"
-bitbucket_password = "ATBBNb2vTs7Kh9x5BBLCSshJaPvG42121258"
+bitbucket_password = "Bitbucket token here"
 
 def check_repo():
     repo_name = "demo-repo-pipeline"
