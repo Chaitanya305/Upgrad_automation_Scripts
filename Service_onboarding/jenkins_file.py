@@ -2,7 +2,7 @@ import os
 import requests
 import json
 bitbucket_username = "test123-workspace-admin"
-bitbucket_password = "Bitbucket token here"
+bitbucket_password = ""#add token here
 
 
 def push_file(repo_name, file_name, content, branch):

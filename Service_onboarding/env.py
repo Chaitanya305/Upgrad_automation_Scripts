@@ -1,2 +1,2 @@
 bitbucket_username = "test123-workspace-admin"
-bitbucket_password = "Bitbucket token here"
+bitbucket_password = ""#add token here
