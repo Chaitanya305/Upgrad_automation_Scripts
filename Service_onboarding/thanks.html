@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Service Onboarding Status</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f4f8;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .container {
+      background: white;
+      padding: 30px 40px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+      max-width: 500px;
+      width: 100%;
+    }
+
+    h1 {
+      font-size: 24px;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    .step {
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 15px 20px;
+      margin-bottom: 15px;
+      font-size: 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .step.success {
+      border-color: #4CAF50;
+      background-color: #eafaf1;
+    }
+
+    .step.error {
+      border-color: #f44336;
+      background-color: #fdeaea;
+    }
+
+    .status-icon {
+      font-size: 20px;
+    }
+
+    .success .status-icon {
+      color: #4CAF50;
+    }
+
+    .error .status-icon {
+      color: #f44336;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Service Onboarding Status</h1>
+
+    <div class="step success">
+      <span>Step 1: Bitbucket repository creation</span>
+      <span class="status-icon">✔️</span>
+    </div>
+
+    <div class="step error">
+      <span>Step 2: Jenkinsfile creation</span>
+      <span class="status-icon">❌</span>
+    </div>
+
+    <div class="step success">
+      <span>Step 3: Config File creation</span>
+      <span class="status-icon">✔️</span>
+    </div>
+  </div>
+</body>
+</html>

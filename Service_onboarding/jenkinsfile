@@ -1,0 +1,9 @@
+@Library('te-cicd-repo') _
+// Define sample Data here, Test Cases: true/false
+def data = [
+"image": "gradle:9-jdk22",
+"run_image": "openjdk:22",
+]
+gradleBuild(data)
+// This single file will be used in CI/CD, No any other script will be executed from this repo
+// if you face any issue in CI/CD, reach out to DevOps Team

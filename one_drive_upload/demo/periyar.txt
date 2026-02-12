@@ -1,0 +1,706 @@
+"uploads/files/scorm/C_Programming_1568914233/index_lms.html"  \
+"uploads/files/scorm/2019-09-20-005342Part_1_1568921022/Part_1.html"  \
+"uploads/files/scorm/Part_2_1568921264/Part_2.html"  \
+"uploads/files/scorm/2019-09-19-130620Part_1_1568878580/Part_1.html"  \
+"uploads/files/scorm/Part_2_1568881354/Part_2.html"  \
+"uploads/files/scorm/Operating_Systems_1568915647/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statis_1568916890/index_lms.html"  \
+"uploads/files/scorm/2019-09-20-155722Part_1_1568975242/Part_1.html"  \
+"uploads/files/scorm/Part_2_1568978812/Part_2.html"  \
+"uploads/files/scorm/Business_Economics_1568916611/index_lms.html"  \
+"uploads/files/scorm/Perspective_of_Management_1568916187/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_1_1570282746/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_2_1570282819/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_3_1570283060/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_4_1570283165/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_5_1570283234/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_1_1570623948/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_2_1570624702/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_3_1570624899/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_4_1570625006/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_5_1570625089/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_1_1570628238/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_2_1570628485/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_3_1570628548/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_4_1570628620/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_5_1570628693/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_1_1570628930/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_2_1570629037/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_3_1570629141/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_4_1570629256/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_Chapter_5_1570629338/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_1_1570630116/Professional Communication Skills 2 Chapter 1 - Storyline output/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_2_1570630159/Professional Communication Skills 2 Chapter 2 - Storyline output/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_3_1570630207/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_4_1570630270/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_1_1570630436/Professional Communication Skills 2 Chapter 1 - Storyline output/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_3_1570630484/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_3_1570630562/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_4_1570630630/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_1_1570687801/Professional Communication Skills 2 Chapter 1 - Storyline output/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_2_1570687849/Professional Communication Skills 2 Chapter 2 - Storyline output/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_3_1570687898/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_4_1570687964/index_lms.html"  \
+"uploads/files/scorm/Perspectives_of_Management_Chapter_1_1570807695/index_lms.html"  \
+"uploads/files/scorm/Perspectives_of_Management_Chapter_2_1570807765/index_lms.html"  \
+"uploads/files/scorm/Perspective_of_Management_Chapter_3_1570860205/index_lms.html"  \
+"uploads/files/scorm/Perspective_of_Management_Chapter_4_1570860300/index_lms.html"  \
+"uploads/files/scorm/Perspectives_of_Management_Chapter_5_1570860923/index_lms.html"  \
+"uploads/files/scorm/Perspectives_of_Management_Chapter_6_1570860978/index_lms.html"  \
+"uploads/files/scorm/Perspectives_of_Management_Chapter_7_1570861116/index_lms.html"  \
+"uploads/files/scorm/Perspective_of_Management_Chapter_8_1570861170/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_1_1570862004/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_2_1570862051/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_3_1570862108/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_4__1__1570862453/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_5_1570862521/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_7_1570867040/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_9_1570867111/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_10_1570867217/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Chapter_1_1570869827/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Chapter_2_1570869896/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Chapter_3_1570869965/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Chapter_4_1570870029/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Chapter_5_1570870116/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Chapter_6_1570870187/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Chapter_7_1570870258/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Chapter_8_1570870314/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_1_1571066090/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_2_1571066144/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_3_1571066221/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_4_1571066263/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_5_1571066332/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_6_1571066378/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_7_1571066438/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_8_1571066486/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_10_1571066553/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_9_1571228102/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_1_1571231467/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_2_1571231607/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_3_1571232151/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_4_1571232377/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_5_1571232496/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_6_1571232834/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_7_1571232902/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_8_1571232951/index_lms.html"  \
+"uploads/files/scorm/Business_Reaserch_Methodology_Chapter_9_1571233021/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_1_1571235969/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_2_1571236011/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_3_1571236063/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_4_1571236105/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_5_1571236165/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_6_1571236209/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_7_1571236270/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_8_1571236314/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_9_1571236353/index_lms.html"  \
+"uploads/files/scorm/C_Programming_Chapter_10_1571236413/index_lms.html"  \
+"uploads/files/scorm/1_Dr_MS_NARAYANA_Five_Year_Plans_1571651828/1_Dr MS NARAYANA Five Year Plans.html"  \
+"uploads/files/scorm/31_Dr_MS_NARAYANA_Economic_Systems_1571652480/31_Dr MS NARAYANA Economic Systems.html"  \
+"uploads/files/scorm/56_Elements_of_Economic_Environment_Dr_N_Bindu_Madhavi_1571652657/56_Elements of Economic Environment Dr N Bindu Madhavi.html"  \
+"uploads/files/scorm/57_Environmental_Scanning_Dr_N_Bindu_Madhavi_1571652815/57_Environmental Scanning Dr N Bindu Madhavi.html"  \
+"uploads/files/scorm/59_Introduction_to_Business_Communication_Skills_Ms_Sabbineni_Poojitha_1571654236/59_Introduction to Business Communication Skills Ms Sabbineni Poojitha.html"  \
+"uploads/files/scorm/13_Demand_and_Its_Determinants_Dr_Ch_Balaji_1571654626/13_Demand and Its Determinants Dr.Ch.Balaji.html"  \
+"uploads/files/scorm/66_Basics_of_OB_Dr_D_Sundari_1571655277/66_Basics of OB Dr D Sundari.html"  \
+"uploads/files/scorm/85_Motivation_Theories_Dr_D_Sundari_1571655405/85_Motivation Theories Dr D Sundari.html"  \
+"uploads/files/scorm/86_Group_Development_Dr_D_Sundari_1571655526/86_Group Development Dr D Sundari.html"  \
+"uploads/files/scorm/12_Introduction_to_Sampling_Dr_J_Venkata_Ramana_1571655814/12_Introduction to Sampling Dr J Venkata Ramana.html"  \
+"uploads/files/scorm/26_Introduction_to_Probability_DR_JV_RAMANA_1571655947/26_Introduction to Probability DR JV RAMANA.html"  \
+"uploads/files/scorm/30_Introduction_to_Statistics_DR_JV_RAMANA_1571656091/32_Introduction to Statistics DR JV RAMANA.html"  \
+"uploads/files/scorm/13_Demand_and_Its_Determinants_Dr_Ch_Balaji_1571657197/13_Demand and Its Determinants Dr.Ch.Balaji.html"  \
+"uploads/files/scorm/20_Accounting_Principles_Dr_P_V_Durga_Rao_1571657418/20_Accounting Principles Dr P V Durga Rao.html"  \
+"uploads/files/scorm/64_Basic_Concepts_of_Financial_Accounting_Dr_P_V_Durga_Rao_1571657566/64_Basic Concepts of Financial Accounting Dr P V Durga Rao.html"  \
+"uploads/files/scorm/64_Basic_Concepts_of_Financial_Accounting_Dr_P_V_Durga_Rao_1571658119/64_Basic Concepts of Financial Accounting Dr P V Durga Rao.html"  \
+"uploads/files/scorm/68_Financial_Accounting_Prof_N_Vishnu_Mohan_Rao_1571658233/68_Financial Accounting Prof N Vishnu Mohan Rao.html"  \
+"uploads/files/scorm/35_Banking_Law_and_Practice_Dr_A_V_N_Murthy_1571658361/35_Banking Law and Practice Dr A V N Murthy.html"  \
+"uploads/files/scorm/5_Relationship_in_ER_Model_Dr_B_Thirumala_Rao_1571660244/5_Relationship in ER Model Dr B Thirumala Rao.html"  \
+"uploads/files/scorm/6_SQL_Commands_Dr_B_Thirumala_Rao_1571660404/6_SQL Commands Dr B Thirumala Rao.html"  \
+"uploads/files/scorm/27_Transaction_Concepts_Dr_B_Thirumala_Rao_1571660548/27_Transaction Concepts Dr B Thirumala Rao.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_Chapter_1__1__1571810414/index_lms.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_Chapter_4_1571810502/index_lms.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_Chapter_5_1571810565/index_lms.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_Chapter_6_1571810619/index_lms.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_Chapter_7_1571810661/index_lms.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_Chapter_8_1571810716/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_1_1571811394/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_1_1571818217/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_2_1571818337/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_3_1571818379/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_4_1571818447/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_5_1571818982/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_6_1571819076/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_7_1571819125/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Chapter_8_1571819167/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computer_Chapter_1_1571819658/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_2_1571819721/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_2_1571819780/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_3_1571819831/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_4_1571819874/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_5_1571819925/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organization_&_Management_Chapter_1_1571846829/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Accounting_Chapter_1_1571823210/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Accounting_Chapter_2_1571826398/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Accounting_Chapter_3_1571826493/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Accounting_Chapter_4_1571826549/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Accounting_Chapter_6_1571826739/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Accounting_Chapter_8_1571826840/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_1_1571828173/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_2_1571828226/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_3_1571828276/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_4_1571828338/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_5_1571828408/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_6_1571828459/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organization_&_Management_Chapter_1_1571844527/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organization_&_Management_Chapter_2_1571844579/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organization_&_Management_Chapter_3_1571844675/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organization_&_Management_Chapter_4_1571844773/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organization_&_Management_Chapter_5_1571844905/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organization_&_Management_Chapter_6_1571845015/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organization_&_Management_Chapter_8_1571845486/index_lms.html"  \
+"uploads/files/scorm/Macro_Economic_Analysis_Chapter_1__2__1571897094/index_lms.html"  \
+"uploads/files/scorm/Macro_Economic_Analysis_Chapter_2__3__1571897192/index_lms.html"  \
+"uploads/files/scorm/Macro_Economic_Analysis_Chapter_3__2__1571897256/index_lms.html"  \
+"uploads/files/scorm/Macro_Economic_Analysis_Chapter_4__2__1571897484/index_lms.html"  \
+"uploads/files/scorm/Macro_Economic_Analysis_Chapter_5__3__1571897770/index_lms.html"  \
+"uploads/files/scorm/Macro_Economic_Analysis_Chapter_6__2__1571898099/index_lms.html"  \
+"uploads/files/scorm/Concept_of_Demand_1571901375/Concept of Demand.html"  \
+"uploads/files/scorm/Elasticity_of_Demand_1571901863/Elasticity of Demand.html"  \
+"uploads/files/scorm/Attitudes_1571903290/Attitudes.html"  \
+"uploads/files/scorm/37_Business_Communication_Skills_Dr_Abhilasha_Presentation_Skills_1572097579/37_Business Communication Skills_Dr Abhilasha Presentation Skills.html"  \
+"uploads/files/scorm/Classification_Of_Accounts_Dr_P_V_Durga_Rao_1571909653/Classification Of Accounts Dr P V Durga Rao.html"  \
+"uploads/files/scorm/99_Stress_Management_Prof_N_V_Siva_Kumari_1572097946/99_Stress Management Prof N V Siva Kumari.html"  \
+"uploads/files/scorm/51_Mr_N_Vishnu_Mohan_Rao_Principles_of_Accounting_1571910985/51_Mr N Vishnu Mohan Rao Principles of Accounting.html"  \
+"uploads/files/scorm/Concept_of_Demand_1572003523/Concept of Demand.html"  \
+"uploads/files/scorm/Decision_Making_1572003698/Decision Making.html"  \
+"uploads/files/scorm/Elasticity_of_Demand_1572003840/Elasticity of Demand.html"  \
+"uploads/files/scorm/Theory_of_Production_1572003987/Theory of Production.html"  \
+"uploads/files/scorm/Introduction_to_Business_Economics_1572004147/Introduction to Business Economics.html"  \
+"uploads/files/scorm/32_Dr__A_V_S_KAMESH_Personality_1572005924/32_Dr. A V S KAMESH Personality/32_Dr. A V S KAMESH Personality.html"  \
+"uploads/files/scorm/53_Dr___A_V_S_KAMESH_Evolution_of_Organizational_Behaviour_1572006851/53_Dr . A V S KAMESH Evolution of Organizational Behaviour.html"  \
+"uploads/files/scorm/Discrete_Mathematics_Chapter_2_1572007556/index_lms.html"  \
+"uploads/files/scorm/Discrete_Mathematics_Chapter_4_1572007590/index_lms.html"  \
+"uploads/files/scorm/37_Business_Communication_Skills_Dr_Abhilasha_Presentation_Skills_1572007679/37_Business Communication Skills_Dr Abhilasha Presentation Skills.html"  \
+"uploads/files/scorm/Discrete_Mathematics_Chapter_5_1572007676/index_lms.html"  \
+"uploads/files/scorm/Discrete_Mathematics_Chapter_7_1572007721/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Business_Communication_1572007753/Introduction to Business Communication.html"  \
+"uploads/files/scorm/Attitudes_1572008292/Attitudes.html"  \
+"uploads/files/scorm/Emotional_Intelligence_1572008507/Emotional Intelligence.html"  \
+"uploads/files/scorm/48_E_SRIDEVI_Programming_in_1572008840/48_E SRIDEVI Programming in.html"  \
+"uploads/files/scorm/Two_Dimensional_Array_1572009100/Two Dimensional Array.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_1_1572009149/index_lms.html"  \
+"uploads/files/scorm/96_Cache_Memory_by_Dr__B__Vijaya_Babu_1572009272/96_Cache Memory by Dr. B. Vijaya Babu.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_2_1572009389/index_lms.html"  \
+"uploads/files/scorm/96_Cache_Memory_by_Dr__B__Vijaya_Babu_1572009506/96_Cache Memory by Dr. B. Vijaya Babu.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_3_1572009466/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_4_1572009518/index_lms.html"  \
+"uploads/files/scorm/DMA_1572009630/DMA.html"  \
+"uploads/files/scorm/Interrupts_1572010045/Interrupts.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_5_1572009814/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_6_1572010035/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_7_1572010216/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_8_1572010546/index_lms.html"  \
+"uploads/files/scorm/88_OOPs_Concepts_Dr_G_Siva_Nageswara_Rao_1572010565/88_OOPs Concepts Dr G Siva Nageswara Rao/88_OOPs Concepts Dr G Siva Nageswara Rao.html"  \
+"uploads/files/scorm/Introduction_to_CPP_1572010679/Introduction_to CPP.html"  \
+"uploads/files/scorm/37_Business_Communication_Skills_Dr_Abhilasha_Presentation_Skills_1572010847/37_Business Communication Skills_Dr Abhilasha Presentation Skills.html"  \
+"uploads/files/scorm/59_Introduction_to_Business_Communication_Skills_Ms_Sabbineni_Poojitha_1572010966/59_Introduction to Business Communication Skills Ms Sabbineni Poojitha.html"  \
+"uploads/files/scorm/Introduction_to_Business_Communication_1572011034/Introduction to Business Communication.html"  \
+"uploads/files/scorm/Attitudes_1572011156/Attitudes.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_9_1572011199/index_lms.html"  \
+"uploads/files/scorm/Emotional_Intelligence_1572011282/Emotional Intelligence.html"  \
+"uploads/files/scorm/Decision_Making_1572011698/Decision Making.html"  \
+"uploads/files/scorm/Introduction_to_Business_Economics_1572012095/Introduction to Business Economics.html"  \
+"uploads/files/scorm/Introduction_to_Database_Management_System_Chapter_10_1572012105/index_lms.html"  \
+"uploads/files/scorm/Theory_of_Production_1572012287/Theory of Production.html"  \
+"uploads/files/scorm/5_RAJYALAKSHMI_Construction_of_Frequency_Distributions_1572012657/5_RAJYALAKSHMI Construction of Frequency Distributions.html"  \
+"uploads/files/scorm/Fundamentals_of_Computer_Chapter_1__1__1572012732/index_lms.html"  \
+"uploads/files/scorm/51_Mr_N_Vishnu_Mohan_Rao_Principles_of_Accounting_1572012992/51_Mr N Vishnu Mohan Rao Principles of Accounting.html"  \
+"uploads/files/scorm/Fundamentals_of_Computer_Chapter_2__1__1572012900/index_lms.html"  \
+"uploads/files/scorm/10_Principles_of_Organization_and_Management_Dr_A_V_N_Murthy_1572013283/10_Principles of Organization and Management Dr A V N Murthy.html"  \
+"uploads/files/scorm/Fundamentals_of_Computer_Chapter_3__1__1572013214/index_lms.html"  \
+"uploads/files/scorm/Fundamentals_of_Computer_Chapter_4__1__1572013351/index_lms.html"  \
+"uploads/files/scorm/37_Business_Communication_Skills_Dr_Abhilasha_Presentation_Skills_1572013412/37_Business Communication Skills_Dr Abhilasha Presentation Skills.html"  \
+"uploads/files/scorm/59_Introduction_to_Business_Communication_Skills_Ms_Sabbineni_Poojitha_1572013538/59_Introduction to Business Communication Skills Ms Sabbineni Poojitha.html"  \
+"uploads/files/scorm/Introduction_to_Business_Communication_1572013906/Introduction to Business Communication.html"  \
+"uploads/files/scorm/Fundamentals_of_Computer_Chapter_5__1__1572013633/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_1_1572014137/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_2_1572014192/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_3_1572014416/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_4_1572014457/index_lms.html"  \
+"uploads/files/scorm/38_Dr_D_Srinivasa_Rao_levels_of_Measurement_1572014616/38_Dr D Srinivasa Rao levels of Measurement.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_5_1572014523/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_6_1572014586/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_9_1572014639/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_13_1572014679/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_4__1__1572015069/index_lms.html"  \
+"uploads/files/scorm/35_Banking_Law_and_Practice_Dr_A_V_N_Murthy_1572017456/35_Banking Law and Practice Dr A V N Murthy.html"  \
+"uploads/files/scorm/2019-10-26-15180039_Dr__A_V_S_KAMESH_Leadership_1572083280/39_Dr. A V S KAMESH Leadership.html"  \
+"uploads/files/scorm/Introduction_To_Computer_Chapter_1_1572089120/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_2_1572089187/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_3_1572089429/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_4_1572089475/index_lms.html"  \
+"uploads/files/scorm/Introduction_To_Computers_Chapter_5_1572089562/index_lms.html"  \
+"uploads/files/scorm/Indian_Banking_System_Chapter_1_1572090090/index_lms.html"  \
+"uploads/files/scorm/Indian_Banking_System_Chapter_2_1572091537/index_lms.html"  \
+"uploads/files/scorm/Indian_Banking_System_Chapter_2_1572090238/index_lms.html"  \
+"uploads/files/scorm/Data_Analysis_Dr_Srinivasa_Rao_1572090655/Data Analysis Dr Srinivasa Rao.html"  \
+"uploads/files/scorm/Indian_Banking_System_Chapter_4_1572090630/index_lms.html"  \
+"uploads/files/scorm/Indian_Banking_System_Chapter_5_1572090684/index_lms.html"  \
+"uploads/files/scorm/Research_Process_Dr__D_Srinivasa_Rao_1572091089/Research Process Dr. D Srinivasa Rao.html"  \
+"uploads/files/scorm/Indian_Banking_System_Chapter_5_1572091369/index_lms.html"  \
+"uploads/files/scorm/Indian_Banking_System_Chapter_8_1572091594/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_1_1572092151/index_lms.html"  \
+"uploads/files/scorm/Business_Law_Dr_A_V_N_Murthy_1572092255/Business Law Dr A V N Murthy.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_2_1572092237/index_lms.html"  \
+"uploads/files/scorm/98_Dr_RAJA_BABU__Business_Law_1572092368/98_Dr.RAJA BABU  Business Law.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_3_1572092329/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_4_1572092378/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_5_1572092446/index_lms.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_7_1572092552/index_lms.html"  \
+"uploads/files/scorm/100_Constructors_and_Destructors__Dr_G_Siva_Nageswara_Rao_1572092625/100_Constructors and Destructors  Dr G Siva Nageswara Rao.html"  \
+"uploads/files/scorm/Financial_Accounting_Chapter_6_1572092609/index_lms.html"  \
+"uploads/files/scorm/99_Stress_Management_Prof_N_V_Siva_Kumari_1572093125/99_Stress Management Prof N V Siva Kumari.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_1_1572093368/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_2_1572093427/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_3_1572093859/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_4_1572093932/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_Chapter_5_1572094177/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_Chapter_6_1589380853/index_lms.html"  \
+"uploads/files/scorm/37_Business_Communication_Skills_Dr_Abhilasha_Presentation_Skills_1572096862/37_Business Communication Skills_Dr Abhilasha Presentation Skills.html"  \
+"uploads/files/scorm/99_Stress_Management_Prof_N_V_Siva_Kumari_1572097037/99_Stress Management Prof N V Siva Kumari.html"  \
+"uploads/files/scorm/37_Business_Communication_Skills_Dr_Abhilasha_Presentation_Skills_1572097240/37_Business Communication Skills_Dr Abhilasha Presentation Skills.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_1_1572097669/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_2_1572097715/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_3_1572097774/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_4_1572097853/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_6_1572097955/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_7_1572098027/index_lms.html"  \
+"uploads/files/scorm/Emotional_Intelligence_1572098235/Emotional Intelligence.html"  \
+"uploads/files/scorm/Application_of_Matrices_in_Business_Dr_Ch_Srinivasa_Kumar_Cold_Drinks_1572242300/Application of Matrices in Business Dr Ch Srinivasa Kumar_Cold Drinks.html"  \
+"uploads/files/scorm/Application_of_Matrices_in_Business_Dr_Ch_Srinivasa_Inverse_method_1572242779/Application of Matrices in Business Dr Ch Srinivasa_Inverse method.html"  \
+"uploads/files/scorm/Fundamental_of_Matrices_Dr_P_Bindu_1572243114/Fundamental of Matrices Dr P Bindu.html"  \
+"uploads/files/scorm/RAJYALAKSHMI__Correlation_1572243637/RAJYALAKSHMI  Correlation.html"  \
+"uploads/files/scorm/Indian_Banking_System_-_CH_1_1572244065/Indian Banking System - CH 1.html"  \
+"uploads/files/scorm/Introduction_to_Computers_1572244698/Introduction to Computers.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_1572244910/Introduction to Financial Accounting.html"  \
+"uploads/files/scorm/Classical_Theory_of_Employment_Dr_V_Venu_Madhav_1572245547/Classical Theory of Employment Dr V Venu Madhav.html"  \
+"uploads/files/scorm/National_Income_Dr_V_Venu_Madhav_1572245732/National Income Dr V Venu Madhav.html"  \
+"uploads/files/scorm/Macro_Economic_Analysis_-_Chapter_1_1572246229/Macro Economic Analysis - Chapter 1.html"  \
+"uploads/files/scorm/Business_Mathematids_-_Chapter_2_1572246403/Business Mathematids - Chapter 2.html"  \
+"uploads/files/scorm/Application_of_Matrices_in_Business_Dr_Ch_Srinivasa_Kumar_Cold_Drinks_1572246750/Application of Matrices in Business Dr Ch Srinivasa Kumar_Cold Drinks.html"  \
+"uploads/files/scorm/Application_of_Matrices_in_Business_Dr_Ch_Srinivasa_Inverse_method_1572247083/Application of Matrices in Business Dr Ch Srinivasa_Inverse method.html"  \
+"uploads/files/scorm/Environmental_Factors_Prof_Jikku_Kurian_2_1572247263/Environmental Factors Prof Jikku Kurian 2.html"  \
+"uploads/files/scorm/Introduction_to_Computers_1572247664/Introduction to Computers.html"  \
+"uploads/files/scorm/POM_Chapter_1_1572247803/POM Chapter 1.html"  \
+"uploads/files/scorm/Organization_Structures_Dr_K_Anusha_1572247892/Organization Structures Dr K Anusha.html"  \
+"uploads/files/scorm/Discrete_Mathematics_-_Chapter_1_1572248038/Discrete Mathematics - Chapter 1.html"  \
+"uploads/files/scorm/Organization_Structures_Dr_K_Anusha_1572248288/Organization Structures Dr K Anusha.html"  \
+"uploads/files/scorm/POM_Chapter_1_1572248420/POM Chapter 1.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_1572249359/Introduction to Financial Accounting.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_1_1572335293/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_2_1572336400/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_3_1572337123/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_4_1572338522/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_5_1572338702/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_5_1572339120/index_lms.html"  \
+"uploads/files/scorm/Business_Environment_Chapter_1_1572340035/index_lms.html"  \
+"uploads/files/scorm/Business_Environment_Chapter_2_1572340564/index_lms.html"  \
+"uploads/files/scorm/Business_Environment_Chapter_3_1572340727/index_lms.html"  \
+"uploads/files/scorm/Business_Environment_Chapter_5_1572343424/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behavior_Chapter_1_1572348130/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_2_1572348414/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_3_1572353960/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_4_1572349011/index_lms.html"  \
+"uploads/files/scorm/Business_Environment_Chapter_5_1572349499/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behavior_Chapter_6_1572350009/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_7_1572350340/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_3_1572354343/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_4_1572354667/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_5_1572354867/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_6_1572355032/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_7_1572355374/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_2_1572355961/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_Chapter_1_1572356126/index_lms.html"  \
+"uploads/files/scorm/klu_1585816724/klu.html"  \
+"uploads/files/scorm/klu_1585818013/klu.html"  \
+"uploads/files/scorm/10_Monetary_Policy_of_India_Dr__S_Chandra_Sekhar-1_1585896605/10_Monetary Policy of India_Dr. S Chandra Sekhar-1.html"  \
+"uploads/files/scorm/10_Monetary_Policy_of_India_Dr__S_Chandra_Sekhar-1_1586234528/10_Monetary Policy of India_Dr. S Chandra Sekhar-1.html"  \
+"uploads/files/scorm/03__Comparative_Study_of_Air_Compressors_1587214019/Comparative Study of Air Compressors - Storyline output/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_1587217592/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_1587218188/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behaviour_1587218857/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_1587219810/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_1587220969/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_computers_1587221221/index_lms.html"  \
+"uploads/files/scorm/01__Business_Environment_1587221435/index_lms.html"  \
+"uploads/files/scorm/04__Perspectives_of_Management_1587221725/index_lms.html"  \
+"uploads/files/scorm/02__Business_Statistics_1587222014/02. Business Statistics/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_1587222470/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_1587222708/index_lms.html"  \
+"uploads/files/scorm/Discrete_Mathematics_1587223676/index_lms.html"  \
+"uploads/files/scorm/Fundamentals_of_Computer_Case_study_1587224057/index_lms.html"  \
+"uploads/files/scorm/C_language_Case_Study_1587224517/index_lms.html"  \
+"uploads/files/scorm/DBMS_Case_Study_1587224911/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Case_Study_1587225388/index_lms.html"  \
+"uploads/files/scorm/OOP_using_C++_Case_Study_1587225713/OOP using C++ Case Study - Storyline output/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_1587226418/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_1587226582/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_1587227084/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Accounting_1587236179/Principles of Accounting/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_computers_1587236440/index_lms.html"  \
+"uploads/files/scorm/Business_Mathematics_and_Statistics_1587236617/index_lms.html"  \
+"uploads/files/scorm/Principles_of_Organisation_&_Management_1587238714/index_lms.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_1587238878/index_lms.html"  \
+"uploads/files/scorm/Business_Law_1587239089/index_lms.html"  \
+"uploads/files/scorm/Indian_Banking_System_1587240173/14. Indian Banking System/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_10_1587283595/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_8_1587283952/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_5_1587286281/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_Chapter_4_1587297347/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_Chapter_5_1587301367/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_Chapter_7_1587301799/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_Chapter_8_1587302082/index_lms.html"  \
+"uploads/files/scorm/Introduction_of_Financial_Accounting_Chapter1_1587304209/Introduction_of_Financial_Accounting_Chapter1/index_lms.html"  \
+"uploads/files/scorm/Introduction_of_Financial_Accounting_Chapter_2_1587304679/Introduction_of_Financial_Accounting_Chapter 2/index_lms.html"  \
+"uploads/files/scorm/Introduction_of_Financial_Accounting_Chapter_3_1587304982/Introduction_of_Financial_Accounting_Chapter 3/index_lms.html"  \
+"uploads/files/scorm/Introduction_of_Financial_Accounting_Chapter_6_1587310454/index_lms.html"  \
+"uploads/files/scorm/Organizational_Behavior_Chapter_1_1587315615/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Business_Reasearch_Methodlogy_Chapter_10_1587404984/index_lms.html"  \
+"uploads/files/scorm/C_language_Case_Study_1587414576/index_lms.html"  \
+"uploads/files/scorm/C_language_Case_Study_1587441549/index_lms.html"  \
+"uploads/files/scorm/Emotional_Intelligence_1587442781/Emotional Intelligence.html"  \
+"uploads/files/scorm/Emotional_Intelligence_1587443509/Emotional Intelligence.html"  \
+"uploads/files/scorm/2_Data_and_Data_Collection_Methods_Dr_J_V_Ramana_1587453945/2_Data and Data Collection Methods_Dr J V Ramana.html"  \
+"uploads/files/scorm/15_Introduction_to_Sampling_and_Sampling_Methods_Dr_J_V_Ramana_1587452744/15_Introduction to Sampling and Sampling Methods_Dr J V Ramana.html"  \
+"uploads/files/scorm/3_Demand_Analysis_Dr_Ch_Balaji_1587454949/3_Demand Analysis_Dr Ch Balaji.html"  \
+"uploads/files/scorm/3_Demand_Analysis_Dr_Ch_Balaji_1587455370/3_Demand Analysis_Dr Ch Balaji.html"  \
+"uploads/files/scorm/4_Economic_Trends_Dr_K_V_B_Ganesh_1587456092/4_Economic Trends_Dr K V B Ganesh.html"  \
+"uploads/files/scorm/5_Factors_Effecting_on_Business_Environment_Dr_K_V_B_Ganesh_1587459429/5_Factors Effecting on Business Environment_Dr K V B Ganesh.html"  \
+"uploads/files/scorm/6_Fiscal_Policy_of_India_Dr__S_Chandra_Sekhar-1_1587461668/6_Fiscal Policy of India_Dr. S Chandra Sekhar-1.html"  \
+"uploads/files/scorm/8_Industrial_Policy_of_India_and_Industrial_Licensing_Dr__S_Chandra_Sekhar_1587461972/8_Industrial Policy of India and Industrial Licensing_Dr. S Chandra Sekhar.html"  \
+"uploads/files/scorm/10_Monetary_Policy_of_India_Dr__S_Chandra_Sekhar-1_1587462854/10_Monetary Policy of India_Dr. S Chandra Sekhar-1.html"  \
+"uploads/files/scorm/11_Types_of_Statistics_and_Introduction_to_data_Dr_J_V_Ramana_1587464514/11_Types of Statistics and Introduction to data_Dr J V Ramana.html"  \
+"uploads/files/scorm/12_Compound_Interest_Dr__K_Rajya_Lakshmi_1587465397/12_Compound Interest_Dr. K Rajya Lakshmi.html"  \
+"uploads/files/scorm/12_Compound_Interest_Dr__K_Rajya_Lakshmi_1587465792/12_Compound Interest_Dr. K Rajya Lakshmi.html"  \
+"uploads/files/scorm/13_Discrete_Mathematics__Raju_Anitha_1587466955/13_Discrete Mathematics_ Raju Anitha.html"  \
+"uploads/files/scorm/17_Ratio__Proportion__Variation_and_Percentages__Dr_N_Konda_Reddy_1587468399/17_Ratio, Proportion, Variation and Percentages  Dr N Konda Reddy.html"  \
+"uploads/files/scorm/18_Types_of_Data_Dr_J_Venkata_Ramana_1587469291/18_Types of Data_Dr J Venkata Ramana.html"  \
+"uploads/files/scorm/19_Rectification_of_Errors_Dr__S_Santha_Kumari_1587471415/19_Rectification of Errors_Dr. S Santha Kumari.html"  \
+"uploads/files/scorm/19_Rectification_of_Errors_Dr__S_Santha_Kumari_1587472073/19_Rectification of Errors_Dr. S Santha Kumari.html"  \
+"uploads/files/scorm/20_Trial_Balance_Dr__S_Santha_Kumari_1587472819/20_Trial Balance_Dr. S Santha Kumari.html"  \
+"uploads/files/scorm/20_Trial_Balance_Dr__S_Santha_Kumari_1587473369/20_Trial Balance_Dr. S Santha Kumari.html"  \
+"uploads/files/scorm/21_Privatization__Liberalization__Globalization_Dr_S_Chandra_Sekhar_1587473684/21_Privatization, Liberalization, Globalization_Dr S Chandra Sekhar.html"  \
+"uploads/files/scorm/22_Graphical_Representation_of_data_Dr__K_Rajya_Lakshmi_1587474228/22_Graphical Representation of data_Dr. K Rajya Lakshmi.html"  \
+"uploads/files/scorm/23_Construction_of_frequency_distribution_Dr__K_Rajya_Lakshmi_1587475503/23_Construction of frequency distribution_Dr. K Rajya Lakshmi.html"  \
+"uploads/files/scorm/27_Research_Problem_Dr_M_S_Narayana_1587547967/27_Research Problem_Dr M S Narayana.html"  \
+"uploads/files/scorm/28_Research_Plan_Dr_M_S_Narayana_1587548322/28_Research Plan_Dr M S Narayana.html"  \
+"uploads/files/scorm/29_Data_Collection_1587549342/29_Data Collection.html"  \
+"uploads/files/scorm/35_Direct_Memory_Usage_Dr_Vijaya_Babu_1587550320/35_Direct Memory Usage_Dr.Vijaya Babu.html"  \
+"uploads/files/scorm/36_Depreciation_types_of_Accounting_Dr_S_Santha_Kumari_1587551501/36_Depreciation types of Accounting_Dr S Santha Kumari.html"  \
+"uploads/files/scorm/36_Depreciation_types_of_Accounting_Dr_S_Santha_Kumari_1587553077/36_Depreciation types of Accounting_Dr S Santha Kumari.html"  \
+"uploads/files/scorm/38_Simple_Interest_Dr__K_Rajya_Lakshmi_1587553743/38_Simple Interest_Dr. K Rajya Lakshmi.html"  \
+"uploads/files/scorm/37_Sources_of_data_Dr__K_Rajya_Lakshmi_1587554760/37_Sources of data_Dr. K Rajya Lakshmi_______.html"  \
+"uploads/files/scorm/Copy_of_Business_Mathematics_and_Statistics_Chapter_6_1587832595/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Business_Mathematics_and_Statistics_Chapter_8_1587833270/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Business_Mathematics_and_Statistics_Chapter_11_1587835247/index_lms.html"  \
+"uploads/files/scorm/Introduction_of_Financial_Accounting_Chapter_3_1587978953/Introduction_of_Financial_Accounting_Chapter 3/index_lms.html"  \
+"uploads/files/scorm/Introduction_of_Financial_Accounting_Chapter1_1587979490/Introduction_of_Financial_Accounting_Chapter1/index_lms.html"  \
+"uploads/files/scorm/Introduction_of_Financial_Accounting_Chapter_2_1587979780/Introduction_of_Financial_Accounting_Chapter 2/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_Chapter_4_1587980726/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_Chapter_5_1587981199/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Principles_of_Accounting_Chapter_6_1587981810/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_Chapter_7_1587982867/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Business_Economics_Chapter_1_1587983045/index_lms.html"  \
+"uploads/files/scorm/Introduction_to_Financial_Accounting_Chapter_8_1587983348/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Principles_of_Accounting_Chapter_9_1587986351/index_lms.html"  \
+"uploads/files/scorm/39_Introduction_and_Data_Collection_Dr__K_Rajya_Lakshmi_1587986576/39_Introduction and Data Collection_Dr. K Rajya Lakshmi.html"  \
+"uploads/files/scorm/Copy_of_Business_Economics_Chapter_2_1587993526/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Business_Economics_Chapter_3_1587996100/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Business_Economics_Chapter_4_1587998176/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Business_Economics_Chapter_5_1587998764/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Macro_Economic_Analysis_Chapter_8_1588000973/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Macro_Economic_Analysis_Chapter_7_1588001504/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Banking_System_Chapter_3_1588002888/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Banking_System_Chapter_6_1588003497/index_lms.html"  \
+"uploads/files/scorm/Business_Economics-Chapter_6_1588004111/Business Economics-Chapter 6/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Banking_System_Chapter_7_1588004750/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Banking_System_Chapter_8_1588005245/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Financial_Accounting_Chapter_3_1588009057/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Financial_Accounting_Chapter_4_1588009374/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Banking_Law_and_Practice_Chapter_1_1588013078/index_lms.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_Chapter_2_1588014099/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Chapter_3_Banking_Law_and_Practice_1588014626/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Banking_Law_and_Practice_Chapter_4_1588095945/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Banking_Law_and_Practice_Chapter_5_1588096532/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Banking_Law_and_Practice_Chapter_6_1588097160/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Banking_Law_and_Practice_Chapter_7_1588097819/index_lms.html"  \
+"uploads/files/scorm/Banking_Law_and_Practice_Chapter_8_1588098323/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_2_Chapter_1_1588149828/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_2_Chapter_2_1588150156/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_2_Chapter_3_1588150698/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_2_Chapter_4_1588151079/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_2_Chapter_5_1588151466/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_1_1588151646/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_2_1588151997/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_3_1588152252/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_4_1588152533/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_5_1588156557/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Fundamentals_of_Computer_Chapter_1_1588181774/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Fundamentals_of_Computer_Chapter_2_1588181910/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Fundamentals_of_Computer_Chapter_3_1588182239/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Fundamentals_of_Computer_Chapter_4_1588182445/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Fundamentals_of_Computer_Chapter_5_1588182711/index_lms.html"  \
+"uploads/files/scorm/Chapter_1_Discrete_Mathematics_1588186022/Chapter 1_Discrete Mathematics/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_2_1588186222/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_3_1588186443/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_4_1588186600/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_5_1588186788/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_6_1588188084/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_7_1588189340/index_lms.html"  \
+"uploads/files/scorm/Discrete_Mathematics_Chapter_8_1588189759/Discrete Mathematics_Chapter 8/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_1_1588277388/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_2_1588277566/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_3_1588277927/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_4_1588278111/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_5_1588278414/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_6_1588278578/index_lms.html"  \
+"uploads/files/scorm/Chapter_7_Introduction_to_Database_Management_System_1588279628/Chapter 7_Introduction to Database Management System/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_8_1588319369/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_9_1588321414/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Introduction_to_Database_Management_System_Chapter_10_1588322861/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Operating_System_Chapter_1_1588413568/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Operating_System_Chapter_2_1588413734/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Operating_System_Chapter_3_1588413924/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Operating_System_Chapter_4_1588414221/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Operating_System_Chapter_5_1588414401/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Operating_System_Chapter_6_1588415057/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Operating_System_Chapter_7_1588415495/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Operating_System_Chapter_8_1588415784/index_lms.html"  \
+"uploads/files/scorm/Copy_of_OOPS_with_C++_Chapter_1_1588419459/index_lms.html"  \
+"uploads/files/scorm/Copy_of_OOPS_with_C++_Chapter_2_1588420074/index_lms.html"  \
+"uploads/files/scorm/Copy_of_OOPS_with_C++_Chapter_3_1588423719/index_lms.html"  \
+"uploads/files/scorm/Copy_of_OOPS_with_C++_Chapter_4_1588423997/index_lms.html"  \
+"uploads/files/scorm/Copy_of_OOPS_with_C++_Chapter_5_1588424606/index_lms.html"  \
+"uploads/files/scorm/20__Business_Communication_Skills_1588440793/index_lms.html"  \
+"uploads/files/scorm/C_language_Case_Study_1588440980/index_lms.html"  \
+"uploads/files/scorm/Fundamentals_of_Computer_Case_study_1588441267/index_lms.html"  \
+"uploads/files/scorm/Discrete_Mathematics_1588441441/index_lms.html"  \
+"uploads/files/scorm/Database_Management_System_1588454533/index_lms.html"  \
+"uploads/files/scorm/Operating_System_Case_Study_1588454755/index_lms.html"  \
+"uploads/files/scorm/MIS_and_Business_Intelligence_Case_Study_1588455061/index_lms.html"  \
+"uploads/files/scorm/Enterprise_Resource_Planning_1588455438/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_3_1589312340/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_4_1589312486/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Discrete_Mathematics_Chapter_6_1589312832/index_lms.html"  \
+"uploads/files/scorm/Discrete_Mathematics_Chapter_8_1589313143/Discrete Mathematics_Chapter 8/index_lms.html"  \
+"uploads/files/scorm/Discrete_Mathematics_-_Chapter_1_1589313688/Discrete Mathematics - Chapter 1.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_2_Chapter_5_1589355024/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_13_1589363977/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_7_story_1589364558/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_8_1589365640/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_6_1589378354/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_6_1589379913/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_6_1589380212/index_lms.html"  \
+"uploads/files/scorm/Business_Environment_Chapter_4_1589380444/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_5_1589381549/index_lms.html"  \
+"uploads/files/scorm/Business_Statistics_Chapter_9_1589382692/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_ch_15_1589625698/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_12_1589627336/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_5_1589639004/index_lms.html"  \
+"uploads/files/scorm/Operating_Systems_Chapter_9__1589642899/index_lms.html"  \
+"uploads/files/scorm/Operating_Systems_Chapter_9__1589643093/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_6_1589645330/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_7_1589645668/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_8_1589645850/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_9_1589646680/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_10_1589647765/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_11_1589647939/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_12_1589648554/index_lms.html"  \
+"uploads/files/scorm/OOPS_with_C++_Chapter_13_1589648902/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_14_1589649108/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_15_1589649401/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_10_1589649993/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_11_1589650315/index_lms.html"  \
+"uploads/files/scorm/Object_Oriented_Programing_C++_Chapter_14_1589650620/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_4_1589713180/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_3_1589713547/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_2_1589714165/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Professional_Communication_Skills_1_Chapter_1_1589720298/index_lms.html"  \
+"uploads/files/scorm/Environmental_Studies_Chapter_1_1589919744/index_lms.html"  \
+"uploads/files/scorm/Environmental_Studies_Chapter_2_1589920680/index_lms.html"  \
+"uploads/files/scorm/Environmental_Studies_Chapter_3_1593516966/index_lms.html"  \
+"uploads/files/scorm/Environmental_Studies_Chapter_4_1589921111/index_lms.html"  \
+"uploads/files/scorm/Environmental_Studies_Chapter_5_1589921323/index_lms.html"  \
+"uploads/files/scorm/Environmental_Studies_Chapter_6_1589921615/index_lms.html"  \
+"uploads/files/scorm/Indian_Economy_Chapter_1_1590463387/index_lms.html"  \
+"uploads/files/scorm/Indian_Economy_Chapter_2_1590463518/index_lms.html"  \
+"uploads/files/scorm/Indian_Economy_Chapter_3_1590463855/index_lms.html"  \
+"uploads/files/scorm/Indian_Economy_Chapter_4_1590464146/index_lms.html"  \
+"uploads/files/scorm/Indian_Economy_Chapter_5_1590464567/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Government_and_Politics_II_Chapter_1_1590472155/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Government_and_Politics_II_Chapter_2_1590472690/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Government_and_Politics_II_Chapter_3_1590473727/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Government_and_Politics_II_Chapter_4_1590474124/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Constitution_Chapter_1_1590478621/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Constitution_Chapter_2_1590490368/index_lms.html"  \
+"uploads/files/scorm/Copy_of_Indian_Constitution_Chapter_3_1590491947/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_1_1590521175/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_1590523022/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_2_1590525257/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_3_1590525414/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_4_1590525639/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_5_1590525860/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_6__1590526016/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_7_1590526256/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_8_1590526570/index_lms.html"  \
+"uploads/files/scorm/Marketing_Management_Chapter_9_1590526762/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_1_1590662669/index_lms.html"  \
+"uploads/files/scorm/Indian_Government_and_Politics_l__1590664098/index_lms.html"  \
+"uploads/files/scorm/Indian_Economy_1590664320/22. Indian Economy/index_lms.html"  \
+"uploads/files/scorm/Environmental_Studies_1590664621/index_lms.html"  \
+"uploads/files/scorm/Indian_Society_and_Culture_1590664947/27. Indian Society and Culture/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_1590665093/index_lms.html"  \
+"uploads/files/scorm/Civic_Sence_1590665331/index_lms.html"  \
+"uploads/files/scorm/Indian_Constitution_1590665453/28. Indian Constitution/index_lms.html"  \
+"uploads/files/scorm/Indian_Government_and_Politics_ll_1590665596/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_1590665926/index_lms.html"  \
+"uploads/files/scorm/Civic_Sense_Chapter_1_1593515364/index_lms.html"  \
+"uploads/files/scorm/Civic_Sense_Chapter_2_1593515467/index_lms.html"  \
+"uploads/files/scorm/Civic_Sense_Chapter_3_1593516297/index_lms.html"  \
+"uploads/files/scorm/Civic_Sense_Chapter_4_1593516476/index_lms.html"  \
+"uploads/files/scorm/Civic_Sense_chapter_5_1593516571/index_lms.html"  \
+"uploads/files/scorm/Environmental_Studies_Chapter_7_1593517090/index_lms.html"  \
+"uploads/files/scorm/Indian_Constitution_Chapter_4_1593517245/index_lms.html"  \
+"uploads/files/scorm/Indian_Constitution_Chapter_5_1593517361/index_lms.html"  \
+"uploads/files/scorm/Indian_Society_and_Culture_Chapter_1_1593517527/index_lms.html"  \
+"uploads/files/scorm/Indian_Society_and_Culture_Chapter_2_1593517626/index_lms.html"  \
+"uploads/files/scorm/Indian_Society_and_Culture_Chapter_3_1593517733/index_lms.html"  \
+"uploads/files/scorm/Indian_Society_and_Culture_Chapter_4_1593517824/index_lms.html"  \
+"uploads/files/scorm/Indian_Society_and_Culture_Chapter_5_1593517913/index_lms.html"  \
+"uploads/files/scorm/Enterprise_Resource_Planning_Chapter_1_1593518744/index_lms.html"  \
+"uploads/files/scorm/Enterprise_Resource_Planning_Chapter_2_1593518840/index_lms.html"  \
+"uploads/files/scorm/Enterprise_Resource_Planning_Chapter_3_1593518941/index_lms.html"  \
+"uploads/files/scorm/Enterprise_Resource_Planning_Chapter_4_1593519093/index_lms.html"  \
+"uploads/files/scorm/Enterprise_Resource_Planning_Chapter_5_1593519197/index_lms.html"  \
+"uploads/files/scorm/Management_Information_System_and_Business_Intelligence_Chapter_1_1593519431/index_lms.html"  \
+"uploads/files/scorm/Management_Information_System_and_Business_Intelligence_Chapter_2_1593519516/index_lms.html"  \
+"uploads/files/scorm/Management_Information_System_and_Business_Intelligence_Chapter_3_1593519616/index_lms.html"  \
+"uploads/files/scorm/Management_Information_System_and_Business_Intelligence_Chapter_4_1593519821/index_lms.html"  \
+"uploads/files/scorm/Management_Information_System_and_Business_Intelligence_Chapter_5_1593519913/index_lms.html"  \
+"uploads/files/scorm/Management_Information_System_and_Business_Intelligence_Chapter_6_1593519995/index_lms.html"  \
+"uploads/files/scorm/Management_Information_System_and_Business_Intelligence_Chapter_7_1593520075/index_lms.html"  \
+"uploads/files/scorm/Indian_Government_and_Politics_I_Chapter_1_1593588960/index_lms.html"  \
+"uploads/files/scorm/Indian_Government_and_Politics_I_Chapter_2_1593589034/index_lms.html"  \
+"uploads/files/scorm/Indian_Government_and_Politics_I_Chapter_3_1593589107/index_lms.html"  \
+"uploads/files/scorm/Indian_Government_and_Politics_I_Chapter_4_1593589190/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_1_1593593521/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_2_1593593620/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_3_1593593754/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_4_1593594100/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_5_1593594326/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_1_1593594482/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_2_1593594925/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_3_1593595143/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_4_1593595419/index_lms.html"  \
+"uploads/files/scorm/Business_Economics_Chapter_5_1593595798/index_lms.html"  \
+"uploads/files/scorm/Professional_Communication_Skills_2_Chapter_5_1593602429/index_lms.html"  \
+"uploads/files/scorm/Demand_Analysis_1598248739/Demand Analysis/Demand Analysis.html"  \
+"uploads/files/scorm/Revenue_Behaviour_1598248890/Revenue Behaviour.html"  \
+"uploads/files/scorm/Bank_Reconciliation_Statement_1598249207/BANK RECONCILIATION STATEMENT/BANK RECONCILIATION STATEMENT.html"  \
+"uploads/files/scorm/Bank_Reconciliation_Statement_1598249609/BANK RECONCILIATION STATEMENT/BANK RECONCILIATION STATEMENT.html"  \
+"uploads/files/scorm/Capital_and_Revenue_Expenditure_and_Receipts_1598249874/eCapital Receipts and Revenue Receipts.html"  \
+"uploads/files/scorm/Subsidiary_Books_1598250101/Subsidiary Book.html"  \
+"uploads/files/scorm/Introduction_To_Computers_1598250560/Introduction To Computers.html"  \
+"uploads/files/scorm/Instructions_and_Addressing_Modes_1598250949/Instructions and Addressing Modes.html"  \
+"uploads/files/scorm/C_Profram_Arrays_1598252316/C Profram Arrays.html"  \
+"uploads/files/scorm/C_Programming_Two_Dimentional_Arrays_1598252408/C Programming Two Dimentional Arrays.html"  \
+"uploads/files/scorm/C_Programming_Strings_1598252574/C Programming Strings.html"  \
+"uploads/files/scorm/C_Programming_Strings_1598252994/C Programming Strings.html"  \
+"uploads/files/scorm/scope_and_lifetime_of_variables_1598253422/scope and lifetime of variables.html"  \
+"uploads/files/scorm/Storage_Class_1598253779/Storage Class.html"  \
+"uploads/files/scorm/Demand_Analysis_1598254187/Demand Analysis/Demand Analysis.html"  \
+"uploads/files/scorm/Revenue_Behaviour_1598254336/Revenue Behaviour.html"  \
+"uploads/files/scorm/Arbitrational_and_Conciliation_Dr_Sailaja_Petikam_P1_1598255172/Arbitrational and Conciliation_Dr Sailaja Petikam P1.html"  \
+"uploads/files/scorm/Arbitrational_and_Conciliation_Dr_Sailaja_Petikam_P2_1598255374/Arbitrational and Conciliation_Dr Sailaja Petikam P2.html"  \
+"uploads/files/scorm/E_-_Commerce_or_E_â€“_Contracts_Dr_Sailaja_Petikam_P1_1598256581/E - Commerce or E â€“ Contracts_Dr Sailaja Petikam P1.html"  \
+"uploads/files/scorm/E_-_Commerce_or_E_â€“_Contracts_Dr_Sailaja_Petikam_P2_1598256842/E - Commerce or E â€“ Contracts_Dr Sailaja Petikam P2.html"  \
+"uploads/files/scorm/Intellectual_Property_Rights__Dr_Sailaja_Petikam_P1_1598257116/Intellectual Property Rights_ Dr Sailaja Petikam P1.html"  \
+"uploads/files/scorm/Intellectual_Property_Rights__Dr_Sailaja_Petikam_P2_1598257466/Intellectual Property Rights_ Dr Sailaja Petikam P2.html"  \
+"uploads/files/scorm/Negotiable_Instruments_Act1881_Dr_Sailaja_Petikam_P1_1598257635/Negotiable Instruments Act1881_Dr Sailaja Petikam P1.html"  \
+"uploads/files/scorm/Negotiable_Instruments_Act1881_Dr_Sailaja_Petikam_P2_1598257903/Negotiable Instruments Act1881_Dr Sailaja Petikam P2.html"  \
+"uploads/files/scorm/Sale_of_Goods_Act__1930_part_1_1598258232/Sale of Goods Act, 1930 part 1.html"  \
+"uploads/files/scorm/Sale_of_Goods_Act__1930_Dr_Sailaja_Petikam_P2_1598258433/Sale of Goods Act, 1930_Dr Sailaja Petikam_P2.html"  \
+"uploads/files/scorm/Export-Import_Policy_of_India_1598258655/Export-Import Policy of India.html"  \
+"uploads/files/scorm/Problems_Of_Growth_1598258784/Problems Of Growth.html"  \
+"uploads/files/scorm/Generalisation_Dr_MS_Narayana_1598259447/Untitled Project.html"  \
+"uploads/files/scorm/BS_Introduction_to_Statistics_and_its_Importance_1598260927/BS_Introduction to Statistics and its Importance.html"  \
+"uploads/files/scorm/Measure_of_Central_Tendancy_1598263391/Measure of Central Tendancy.html"  \
+"uploads/files/scorm/Operations_on_Process_Dr_Nrasingarao_Part_1_1598264192/Operations on Process Dr Nrasingarao Part 1.html"  \
+"uploads/files/scorm/Basic_Concept_of_Macro_Economics_Dr_Ch_Balaji_1598265677/Basic Concept of Macro Economics_Dr Ch Balaji.html"  \
+"uploads/files/scorm/Inflation_Dr_Ch_Balaji_1598265907/Inflation_Dr Ch Balaji.html"  \
+"uploads/files/scorm/Money_and_RBI_Dr_Ch_Balaji_1598266432/Money and RBI_Dr Ch Balaji.html"  \
+"uploads/files/scorm/National_Income_Dr_ch_Balaji_1598266932/National Income_Dr ch Balaji.html"  \
+"uploads/files/scorm/Public_Finance_Dr_Ch_Balaji_1598267634/Public Finance_Dr Ch Balaji.html"  \
+"uploads/files/scorm/Demand_Analysis_1598270426/Demand Analysis/Demand Analysis.html"  \
+"uploads/files/scorm/Revenue_Behaviour_1598270600/Revenue Behaviour.html"  \
+"uploads/files/scorm/C_Program_File_Handling_1598271384/C Program File Handling.html"  \
+"uploads/files/scorm/C_Profram_Arrays_1598271668/C Profram Arrays.html"  \
+"uploads/files/scorm/C_Programming_Two_Dimentional_Arrays_1598271763/C Programming Two Dimentional Arrays.html"  \
+"uploads/files/scorm/C_Programming_Strings_1598271925/C Programming Strings.html"  \
+"uploads/files/scorm/C_Programming_Strings_1598272082/C Programming Strings.html"  \
+"uploads/files/scorm/scope_and_lifetime_of_variables_1598272496/scope and lifetime of variables.html"  \
+"uploads/files/scorm/Storage_Class_1598272917/Storage Class.html"  \
+"uploads/files/scorm/Introduction_and_Character_Set_Sriram_1_1598273355/Introduction and Character Set Sriram 1.html"  \
+"uploads/files/scorm/Bank_Reconciliation_Statement_1598273664/BANK RECONCILIATION STATEMENT/BANK RECONCILIATION STATEMENT.html"  \
+"uploads/files/scorm/Capital_and_Revenue_Expenditure_and_Receipts_1598273947/eCapital Receipts and Revenue Receipts.html"  \
+"uploads/files/scorm/Subsidiary_Books_1598274157/Subsidiary Book.html"  \
+"uploads/files/scorm/Instructions_and_Addressing_Modes_1598274880/Instructions and Addressing Modes.html"  \
+"uploads/files/scorm/Introduction_and_Character_Set_Sriram_1_1598274767/Introduction and Character Set Sriram 1.html"  \
+"uploads/files/scorm/C_Program_File_Handling_1598275170/C Program File Handling.html"  \
+"uploads/files/scorm/Instructions_and_Addressing_Modes_1598333151/Instructions and Addressing Modes.html"  \
+"uploads/files/scorm/Introduction_To_Computers_1598333345/Introduction To Computers.html"  \
+"uploads/files/scorm/Quantitative_and_Qualitative_Research__JV_Ramana_1_1598333654/Quantitative and Qualitative Research_ JV Ramana 1.html"  \
+"uploads/files/scorm/Quantitative_and_Qualitative_Research__JV_Ramana_2_1598333835/Quantitative and Qualitative Research_ JV Ramana 2.html"  \
+"uploads/files/scorm/Quantitative_REsearch__JV_Ramana__Part_2_1598333953/Quantitative REsearch _JV Ramana  Part 2.html"  \
+"uploads/files/scorm/Introduction_to_Sampling_and_Sampling_Methods_1598334237/Introduction to Sampling and Sampling Methods.html"  \
+"uploads/files/scorm/Random_and_Non-Random_Sampling_Methods_1598334446/Random and Non-Random Sampling Methods.html"  \
+"uploads/files/scorm/Sample_size_determination_and_Sampling_errors_Dr_J_Venkata_Ramana_1598334768/Sample size determination and Sampling errors_Dr J Venkata Ramana.html"  \
+"uploads/files/scorm/Research_Report_writing_1598421068/Research Report writing.html"  \
+"uploads/files/scorm/Consumer_Protection_Act__1986_P1_1598421362/Untitled Project.html"  \
+"uploads/files/scorm/Consumer_Protection_Act__1986_P2_1598421530/Consumer Protection Act, 1986_P2.html"  \
+"uploads/files/scorm/Data_and_Data_Collection_Methods_1598431748/Data and Data Collection Methods.html"  \
+"uploads/files/scorm/Depreciation_1599040737/Depreciation.html"  \
+"uploads/files/scorm/Rectification_of_errors_1599045022/Rectification of errors.html"  \
+"uploads/files/scorm/Rectification_of_errors_1599045238/Rectification of errors.html"  \
+"uploads/files/scorm/Set_Theory_1599119866/Set Theory.html"  \
+"uploads/files/scorm/Set_Theory_1599120890/Set Theory.html"  \
+"uploads/files/scorm/Simple_Interest_1599126785/Simple Interest.html"  \
+"uploads/files/scorm/Compount_Interest_1599130161/Compount Interest.html"  \
+"uploads/files/scorm/Direct_Memory_Access_DMA__1599131131/Direct Memory Access(DMA).html"  \
+"uploads/files/scorm/Direct_Memory_Access_DMA__1599131785/Direct Memory Access(DMA).html"  \
+"uploads/files/scorm/economic_Trends_1599136686/economic Trends.html"  \
+"uploads/files/scorm/Measure_of_Central_Tendancy_1599138386/Measure of Central Tendancy.html"  \
+"uploads/files/scorm/Computer_System_and_Operating_System_Overview_1599298489/Computer System and Operating System Overview.html"  \
+"uploads/files/scorm/Computer_System_and_Operating_System_Overview_1599299202/Computer System and Operating System Overview.html"  \
+"uploads/files/scorm/Construction_of_frequency_distribution_1599303905/Construction of frequency distribution.html"  \
+"uploads/files/scorm/FACTORS_EFFECTING_ON_BUSINESS_ENVIRONMENT_1599464834/FACTORS EFFECTING ON BUSINESS ENVIRONMENT.html"  \
+"uploads/files/scorm/Fiscal_Policy_Of_India_1599470127/Fiscal Policy Of India.html"  \
+"uploads/files/scorm/Industrial_Policy_of_India_and_Industrial_Licensing_1599471770/Industrial Policy of India and Industrial Licensing.html"  \
+"uploads/files/scorm/Moneytary_Policy_Of_India_1599474123/Moneytary Policy Of India.html"  \
+"uploads/files/scorm/Privatization__Liberalization__Globalization_1599478943/Privatization, Liberalization, Globalization.html"  \
+"uploads/files/scorm/Graphical_Representation_of_Data_1599481685/Graphical Representation of Data.html"  \
+"uploads/files/scorm/trial_balance_1599547528/trial balance.html"  \
+"uploads/files/scorm/trial_balance_1599547969/trial balance.html"  \
+"uploads/files/scorm/Research_Plan_1599551883/Research Plan.html"  \
+"uploads/files/scorm/Types_of_Data_1599558271/Types of Data.html"  \
+"uploads/files/scorm/Chapter3-_CPU_Scheduling__Part-1__1599560983/Chapter3- CPU Scheduling (Part-1).html"  \
+"uploads/files/scorm/Chapter3-_CPU_Scheduling__Part-1__1599561374/Chapter3- CPU Scheduling (Part-1).html"  \
+"uploads/files/scorm/Operations_on_Process_Dr_Nrasingarao_Part_1_1599562241/Operations on Process Dr Nrasingarao Part 1.html"  \
+"uploads/files/scorm/Types_of_Statistics_and_Introduction_to_data_1599564757/Types of Statistics and Introduction to data.html"  \
+"uploads/files/scorm/Ratio__Proportion__Variation_and_Percentages__Dr_N_Konda_Reddy_1599626220/Ratio, Proportion, Variation and Percentages  Dr N Konda Reddy.html"  \
+"uploads/files/scorm/Chapter3-CPU_Scheduling__Part-2__1599629918/Chapter3-CPU Scheduling (Part-2).html"  \
+"uploads/files/scorm/Chapter3-CPU_Scheduling__Part-2__1599630340/Chapter3-CPU Scheduling (Part-2).html"  \
+"uploads/files/scorm/Chapter4-Deadlock_1599647926/Chapter4-Deadlock.html"  \
+"uploads/files/scorm/Introduction_and_Data_Collection_1599638214/Introduction and Data Collection.html"  \
+"uploads/files/scorm/Chapter4-Deadlock_1599647643/Chapter4-Deadlock.html"  \
+"uploads/files/scorm/Use_Of_Computer_Data_1599650351/Use Of Computer Data.html"  \
+"uploads/files/scorm/Global_Business_Environment_and_Economics_Chapter_1_1594203601/index_lms.html"  \
+"uploads/files/scorm/Managerial_Economics_1617793655/index_lms.html"  \

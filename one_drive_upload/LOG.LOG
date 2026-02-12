@@ -1,0 +1,23 @@
+Getting device code...
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code NB7G86QSX to authenticate.
+Waiting for authentication...
+🔍 Searching for HTML files...
+Uploading ./html2/index2.html
+✅ Uploaded ./html2/index2.html
+Uploading ./html2/index dem_ka_file.html
+❌ Failed to upload ./html2/index dem_ka_file.html
+
+Uploading ./demo testing folder/new demo file.html
+❌ Failed to upload ./demo testing folder/new demo file.html
+
+Uploading ./demo testing folder/demo file.html
+❌ Failed to upload ./demo testing folder/demo file.html
+
+Uploading ./demo testing folder/demo folder/demo text.html
+❌ Failed to upload ./demo testing folder/demo folder/demo text.html
+
+Uploading ./html1/index2.html
+✅ Uploaded ./html1/index2.html
+Uploading ./html1/index.html
+✅ Uploaded ./html1/index.html
+All uploads completed!

@@ -1,0 +1,42 @@
+app:
+  name: prod-service-onboarding-poc
+  appid: prod-service-onboarding-poc
+  environment: prod
+deployment:
+  replicaCount: 1
+  image:
+    repository: 443370702768.dkr.ecr.ap-south-1.amazonaws.com/service-onboarding-poc
+    tag: common-prod
+    pullPolicy: Always
+  configMap: prod-service-onboarding-poc
+  livenessProbe:
+    path: /actuator/health
+  readinessProbe:
+    path: /actuator/health
+service:
+  type: NodePort
+  externalPort: 80
+  internalPort: 8080
+ingress:
+  enabled: true
+  class: alb
+  host: degrees-kuber.lmscontent.in
+  annotations:
+    alb.ingress.kubernetes.io/group.order: "300"
+    alb.ingress.kubernetes.io/group.name: ingress-alb-prod-public
+extraEnvs:
+- name: DB_PASS
+  valueFrom:
+    secretKeyRef:
+      name: secrets-prod-app
+      key: DB_PASS
+- name: DB_USER
+  valueFrom:
+    secretKeyRef:
+      name: secrets-prod-app
+      key: DB_USER
+- name: KAFKA_USER
+  valueFrom:
+    secretKeyRef:
+      name: secrets-prod-app
+      key: KAFKA_USER
