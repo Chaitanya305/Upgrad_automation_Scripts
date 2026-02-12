@@ -90,11 +90,11 @@ def grant_db_access(user_name, dbpass, env):
 
             # stdin1, stdout1, stderr1 = client.exec_command("aws secretsmanager get-secret-value --secret-id arn:aws:secretsmanager:ap-south-1:635145294553:secret:stage-acquisition-H3E7nu --region ap-south-1 | jq --raw-output '.SecretString' | jq -r .LEARN_USERNAME")
             # mysql_stage_platform_user_name = stdout1.read().decode().strip()
-            mysql_stage_platform_user_name = "mysqllearnadmin"
+            mysql_stage_platform_user_name = "mymin"
 
             # stdin2, stdout2, stderr2 = client.exec_command("aws secretsmanager get-secret-value --secret-id arn:aws:secretsmanager:ap-south-1:635145294553:secret:stage-acquisition-H3E7nu--region ap-south-1 | jq --raw-output '.SecretString' | jq -r .LEARN_PASSWORD")
             # mysql_stage_platform_password = stdout2.read().decode().strip()
-            mysql_stage_platform_password = "04VnaNo433KL"
+            mysql_stage_platform_password = "pass here"
             mysql_acces(client, mysql_stage_platform_host, mysql_stage_platform_user_name, mysql_stage_platform_password, user_name, dbpass)
 
         #psql access 

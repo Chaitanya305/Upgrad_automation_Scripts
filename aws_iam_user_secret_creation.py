@@ -40,7 +40,7 @@ def profile_setter(user_name):
                     UserName = user_name,
                     Tags=[
                         {
-                            'Key': 'CreatedVia',
+                            'Key': 'Creaa',
                             'Value': 'ZeroOps'
                         },
                     ]
@@ -80,7 +80,7 @@ def create_user(user_name):
                 UserName = user_name,
                 Tags=[
                     {
-                        'Key': 'CreatedVia',
+                        'Key': 'CreatVia',
                         'Value': 'ZeroOps'
                     },
                 ]

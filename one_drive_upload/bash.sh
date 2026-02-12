@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#CLIENT_ID="5bd3ccf5-505b-4f16-a58a-5c41c852cc5f"
-CLIENT_ID="5008ab1b-d9dd-494a-b88a-1d6a3d4cd990"
+#CLIENT_ID="5bd3ccf-a58a-5c41c852cc5f"
+CLIENT_ID="5008a-1d6a3d4cd990"
 SCOPE="Files.ReadWrite offline_access"
 # AUTH_URL="https://login.microsoftonline.com/common/oauth2/v2.0/devicecode"
 # TOKEN_URL="https://login.microsoftonline.com/common/oauth2/v2.0/token"

@@ -56,7 +56,7 @@ def lambda_handler(event, context):
     connection = pymysql.connect(
         host='zeroops-db.upgrad.com', 
         user='root',
-        password='BmAw6oJLXQYH',
+        password='BJLXQYH',
         database='env_uptime',
         cursorclass=pymysql.cursors.DictCursor
     )

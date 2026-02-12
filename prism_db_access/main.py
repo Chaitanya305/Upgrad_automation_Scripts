@@ -67,7 +67,7 @@ def create_or_update_mongo_user(public_key, private_key, project_id, username, p
 
 
 #dbpass = generate_password()
-dbpass = "wKVcDvbMvB"
+dbpass = "wKVbMvB"
 print(dbpass)
 #for dev
 public_key = "keu publci"
@@ -77,7 +77,7 @@ project_id = "5f565163e2f68"
 
 
 # #for prod
-# project_id = "638f1160b957145caf9d0129"
+# project_id = "638f11d0129"
 
 username = "chaitanyagolhar"
 #role_name can be readAnyDatabase (prod) or readWriteAnyDatabase (dev)

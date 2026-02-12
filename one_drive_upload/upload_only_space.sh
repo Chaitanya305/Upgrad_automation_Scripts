@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CLIENT_ID="5008ab1b88a-1d6a3d4cd990"
+CLIENT_ID="5008ab1b88a-1d6d4cd990"
 TENANT_ID="2e08-e078b350caaa"
 SCOPE="Files.ReadWrite.All offline_access"
 AUTH_URL="https://login.microsoftonline.com/$TENANT_ID/oauth2/v2.0/devicecode"
